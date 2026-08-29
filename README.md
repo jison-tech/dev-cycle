@@ -9,7 +9,7 @@ It stops for your confirmation between the major steps, and loops the implement/
 ## Install
 
 ```
-/plugin marketplace add <your-github-username>/dev-cycle
+/plugin marketplace add jison-tech/dev-cycle
 /plugin install dev-cycle
 ```
 

@@ -1,0 +1,13 @@
+{
+  "name": "dev-cycle",
+  "owner": {
+    "name": "Jison"
+  },
+  "plugins": [
+    {
+      "name": "dev-cycle",
+      "source": "./",
+      "description": "A slash command that walks a task through a full dev flow: brainstorm, analyze, plan, implement, webperf check, and review -- looping implement/webperf/review until approved, then producing a report, commit messages, and a PR description."
+    }
+  ]
+}

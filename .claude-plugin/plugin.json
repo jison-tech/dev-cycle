@@ -1,0 +1,16 @@
+{
+  "name": "dev-cycle",
+  "description": "A slash command that walks a task through a full dev flow: brainstorm, analyze, plan, implement, webperf check, and review -- looping implement/webperf/review until approved, then producing a report, commit messages, and a PR description.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Jison"
+  },
+  "license": "MIT",
+  "keywords": [
+    "workflow",
+    "planning",
+    "code-review",
+    "performance",
+    "pull-request"
+  ]
+}
